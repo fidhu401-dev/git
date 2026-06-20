@@ -1,0 +1,3 @@
+PYTHON
+
+python is a high level interpreted and general purpose programming language that is widely used for software development ,web application and data analysis, artificial intelligence and scientific computing. created by guido van Rossum in 1991, python is simple and readable syntax
